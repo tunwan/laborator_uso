@@ -1,1 +1,1 @@
-# sortarea unor algoritmi
+we implement 3 sorting apps
